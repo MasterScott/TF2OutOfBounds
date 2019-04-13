@@ -12,4 +12,4 @@ These are just coordinates to use with `cat_outofbounds` while near the out of b
 |    Egypt    |    Stage 3     | 1263.968750  | 4495.946289  | 7.465197  |  0.074329   |
 | Doublecross |      Red       | -1016.030029 | -2580.031982 | 9.347898  |  0.041826   |
 | Doublecross |      Blu       | 1016.001953  | 2580.053223  | 7.275527  | -179.931656 |
-|   Borneo    | Red Setup Time | -467.939911  | -6056.031250 | 9.259290  |  90.082581  |
+|   Borneo    | Blu Setup Time | -467.939911  | -6056.031250 | 9.259290  |  90.082581  |
