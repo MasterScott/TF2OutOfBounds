@@ -14,6 +14,7 @@ These are just coordinates to use with `cat_outofbounds` while near the out of b
 |    Egypt    |    Stage 3                     | 1263.968750  | 4495.946289  | 7.465197  |  0.074329   |
 |   Turbine   |    Red (through glass)         | 1992.028442  |  936.019775  | 0.272817  | -179.983673 |
 |   Turbine   |    Red (through door)          | 1696.029175  | 1008.293091  | 35.000000 |  -90.038498 |
+|   Turbine   | Red (through glass from inside)| 1927.989624  | 936.019775   | 0.432120  | -0.026141   |
 |   Turbine   |    Blue (through glass)        | -1992.051514 | -936.055908  | -0.768594 |  0.064962   |
 |   Turbine   |    Blue (through door)         | -1696.021606 | -1008.698181 | 35.000000 |  89.979446  |
 |   Turbine   |Blue (through glass from inside)| -1927.023193 | -936.055847  | 2.673917  | 179.936523  |
