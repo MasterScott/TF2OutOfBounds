@@ -2,7 +2,7 @@
 
 These are just coordinates to use with `cat_outofbounds` while near the out of bounds spots. Use `cl_showpos` to see position on map.
 
-|     Map     |    Details                     |      X       |      Y       |    YAW    |    PITCH    |
+|     Map     |    Details                     |      X       |      Y       |    PITCH  |     YAW     |
 | :---------: | :------------:                 | :----------: | :----------: | :-------: | :---------: |
 |  Badwater   |                                |  511.943848  | 2783.968750  | 7.622991  |  89.936729  |
 |   Borneo    | Blu Setup Time                 | -467.939911  | -6056.031250 | 9.259290  |  90.082581  |
