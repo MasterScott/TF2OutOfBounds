@@ -8,7 +8,7 @@ These are just coordinates to use with `cat_outofbounds` while near the out of b
 |   Borneo    | Blu Setup Time                 | -467.939911  | -6056.031250 | 9.259290  |  90.082581  |
 | Doublecross |      Red                       | -1016.030029 | -2580.031982 | 9.347898  |  0.041826   |
 | Doublecross |      Blu                       | 1016.001953  | 2580.053223  | 7.275527  | -179.931656 |
-|    Egypt    |    Stage 1                     |   -1754.28   |   -3344.04   |   39.20   |    0.04     |
+|    Egypt    |    Stage 1                     | -1754.255615 | -3344.038574 | 36.452919 |  0.050812   |
 |    Egypt    |    Stage 2                     | 2919.968750  | 1999.951416  | 11.952104 |  0.053882   |
 |    Egypt    |    Stage 2                     |  87.946884   | 1885.851685  | 34.806473 |  89.951176  |
 |    Egypt    |    Stage 3                     | 1263.968750  | 4495.946289  | 7.465197  |  0.074329   |
@@ -20,3 +20,5 @@ These are just coordinates to use with `cat_outofbounds` while near the out of b
 |   Turbine   |Blue (through glass from inside)| -1927.023193 | -936.055847  | 2.673917  | 179.936523  |
 |  Swiftwater |       Hide in a Tunnel         | 5543.948730  | -1527.988037 | 23.115799 | -0.012952   |
 |  Swiftwater |Clip behind a door owned by red | 2636.031250  | -1126.089478 | 13.124457 | 179.843811  |
+|   Mossrock  |                                | 1519.928589  | -1311.205322 | 26.239538 | -89.900642  |
+
