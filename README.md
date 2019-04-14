@@ -10,7 +10,7 @@ These are just coordinates to use with `cat_outofbounds` while near the out of b
 | Doublecross |      Blu                       | 1016.001953  | 2580.053223  | 7.275527  | -179.931656 |
 |    Egypt    |    Stage 1                     |   -1754.28   |   -3344.04   |   39.20   |    0.04     |
 |    Egypt    |    Stage 2                     | 2919.968750  | 1999.951416  | 11.952104 |  0.053882   |
-|    Egypt    |    Stage 2                     |  87.946884   | 1885.851685  | 89.951176 |  34.806473  |
+|    Egypt    |    Stage 2                     |  87.946884   | 1885.851685  | 34.806473 |  89.951176  |
 |    Egypt    |    Stage 3                     | 1263.968750  | 4495.946289  | 7.465197  |  0.074329   |
 |   Turbine   |    Red (through glass)         | 1992.028442  |  936.019775  | 0.272817  | -179.983673 |
 |   Turbine   |    Red (through door)          | 1696.029175  | 1008.293091  | 35.000000 |  -90.038498 |
