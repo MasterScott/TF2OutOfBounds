@@ -17,3 +17,5 @@ These are just coordinates to use with `cat_outofbounds` while near the out of b
 |   Turbine   |    Blue (through glass)        | -1992.051514 | -936.055908  | -0.768594 |  0.064962   |
 |   Turbine   |    Blue (through door)         | -1696.021606 | -1008.698181 | 35.000000 |  89.979446  |
 |   Turbine   |Blue (through glass from inside)| -1927.023193 | -936.055847  | 2.673917  | 179.936523  |
+|  Swiftwater |       Hide in a Tunnel         | 5543.948730  | -1527.988037 | 23.115799 | -0.012952   |
+|  Swiftwater |Clip behind a door owned by red | 2636.031250  | -1126.089478 | 13.124457 | 179.843811  |
