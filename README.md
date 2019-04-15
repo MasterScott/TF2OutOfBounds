@@ -25,4 +25,4 @@ These are just coordinates to use with `cat_outofbounds` while near the out of b
 | Thundermountain|Blu Setup Time Phase 1 (through window)|-655.932190|-3820.002930|35.448536|  90.085930  |[Image](https://i.imgur.com/LMDWO1F.jpg)|
 | Thundermountain|      Blu Setup Time Phase 2    | -5088.036133 |  2212.007568 | 15.974121 | -89.956055  |[Image](https://i.imgur.com/4BXuBsu.jpg)|
 | Thundermountain|      Blu Setup Time Phase 3    |  2191.972900 |  3353.798340 | 12.601318 |  89.972534  |[Image](https://i.imgur.com/ICt4pTG.jpg)|
-|~~ Thundermountain~~|~~      Blu Setup Time Phase 3    ~~|~~  4888.000977 ~~|~~  576.031250  ~~|~~-179.999710~~|~~  11.267641  ~~|~~                  N/A                   ~~|
+|~~Thundermountain~~|~~Blu Setup Time Phase 3~~|~~4888.000977~~|~~576.031250~~|~~-179.999710~~|~~11.267641~~|                  N/A                   |
