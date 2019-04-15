@@ -22,6 +22,7 @@ These are just coordinates to use with `cat_outofbounds` while near the out of b
 |  Swiftwater    |Clip behind a door owned by red | 2636.031250  | -1126.089478 | 13.124457 | 179.843811  |
 |   Mossrock     |                                | 1519.928589  | -1311.205322 | 26.239538 | -89.900642  |
 | Thundermountain|      Blu Setup Time Phase 1    | -1068.001587 | -3724.079834 | 17.606197 |  0.118330   |
+| Thundermountain|Blu Setup Time Phase 1 (through window)|-655.932190|-3820.002930|35.448536|  90.085930  |
 | Thundermountain|      Blu Setup Time Phase 2    | -5088.012695 |  2212.001465 | 15.977962 | -89.958557  |
 | Thundermountain|      Blu Setup Time Phase 3    |  2191.961914 |  3353.745850 | 12.606098 |  89.976944  |
 | Thundermountain|      Blu Setup Time Phase 3    |  4888.000977 |  576.031250  |-179.999710|  11.267641  |
