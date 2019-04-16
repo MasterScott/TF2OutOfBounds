@@ -13,11 +13,11 @@ These are just coordinates to use with `cat_outofbounds` while near the out of b
 |    Egypt       |           Stage 2              |  87.946884   | 1885.851685  | 34.806473 |  89.951176  |                  N/A                   |
 |    Egypt       |           Stage 3              | 1263.968750  | 4495.946289  | 7.465197  |  0.074329   |                  N/A                   |
 |   Turbine      |     Red (through glass)        | 1992.028442  |  936.019775  | 0.272817  | -179.983673 |                  N/A                   |
-|   Turbine      |     Red (through door)         | 1696.029175  | 1008.293091  | 35.000000 |  -90.038498 |                  N/A                   |
-|   Turbine      | Red (through glass from inside)| 1927.989624  | 936.019775   | 0.432120  | -0.026141   |                  N/A                   |
-|   Turbine      |     Blue (through glass)       | -1992.051514 | -936.055908  | -0.768594 |  0.064962   |                  N/A                   |
-|   Turbine      |     Blue (through door)        | -1696.021606 | -1008.698181 | 35.000000 |  89.979446  |                  N/A                   |
-|   Turbine      |Blue (through glass from inside)| -1927.023193 | -936.055847  | 2.673917  | 179.936523  |                  N/A                   |
+|   Turbine      |     Red (through door)         | 1696.029175  | 1008.293091  | 35.000000 |  -90.038498 |[Image](https://i.imgur.com/33E9a4l.jpg)|
+|   Turbine      | Red (through glass from inside)| 1927.989624  | 936.019775   | 0.432120  | -0.026141   |[Image](https://i.imgur.com/F7wzlav.jpg)|
+|   Turbine      |     Blue (through glass)       | -1992.051514 | -936.055908  | -0.768594 |  0.064962   |[Image](https://i.imgur.com/ZFEVMRj.jpg)|
+|   Turbine      |     Blue (through door)        | -1696.021606 | -1008.698181 | 35.000000 |  89.979446  |[Image](https://i.imgur.com/Wi1bLCe.jpg)|
+|   Turbine      |Blue (through glass from inside)| -1927.023193 | -936.055847  | 2.673917  | 179.936523  |[Image](https://i.imgur.com/qg6JlGZ.jpg)|
 |  Swiftwater    |       Hide in a Tunnel         | 5543.948730  | -1527.988037 | 23.115799 | -0.012952   |                  N/A                   |
 |  Swiftwater    |Clip behind a door owned by red | 2636.031250  | -1126.089478 | 13.124457 | 179.843811  |                  N/A                   |
 |   Mossrock     |                                | 1519.928589  | -1311.205322 | 26.239538 | -89.900642  |                  N/A                   |
